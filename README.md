@@ -1,2 +1,3 @@
 # Vba-challenge
  
+The following excel file includes information on various stocks in a 3-year period. With the information provided, the yearly change of each stock, percent change, total stock volume and listing of the corresponding tickers (stock names) are automated and printed using vba. Additionally, the greatest percent of increases and decreases are calculated, as well as the greatest total volume at the end of each year. 
